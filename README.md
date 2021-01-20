@@ -9,5 +9,10 @@ Second lesson:
 Third lession:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tutorials-4newbies/classes/master?filepath=classes103.ipynb)
 
+Using OOP in real life with pygame:
+
+use the [game folder](./game) with the different branches: 
+
 OOP Modeling
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tutorials-4newbies/classes/master?filepath=OOP_modeling.ipynb)
+
