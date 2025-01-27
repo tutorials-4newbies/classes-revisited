@@ -1,4 +1,19 @@
-#Introduction to classes in python and generally
+# Initialize local working environment
+Windows
+```
+pyenv local  //should return 3.12
+poetry install
+Invoke-Expression (poetry env activate)
+```
+
+
+Linux/MacOS
+```
+pyenv local  //should return 3.12
+poetry install
+eval $(poetry env activate)
+```
+# Introduction to classes in python and generally
 
 First lesson: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tutorials-4newbies/classes/master?filepath=classes101.ipynb)
