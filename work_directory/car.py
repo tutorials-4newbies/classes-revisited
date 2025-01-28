@@ -8,3 +8,17 @@ Exercise 2: Car Class with Inheritance
     Add a method called honk_horn() to the Car class that prints "Beep beep!".
     Create an instance of the Car class and call the start_engine() and honk_horn() methods.
 """
+"""
+Bonus Exercise!
+Implement the methods start_engine and honk_horn so that honk_horn works only if the engine was first started!
+For Example:
+    car = Car(...)
+    car.honk_horn()
+Should print >> "Can't honk horn before engine started"
+
+But:
+    car = Car(...)
+    car.start_engine()
+    car.honk_horn()
+Should work
+"""
