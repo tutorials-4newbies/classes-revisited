@@ -1,0 +1,3 @@
+# 1. Write one class named Ingredient that on init has a name, and values for fat, carbs, protein + has a method to calculate calories value (fat * 7 + carb * 4 + protein * 4) 
+# 2. Write another class named Dish that has an ingredient list and that has a method to add ingredients to the list, and has a method to calculate calories value of all ingredients
+# Bonus: Write a BaseInterface class for Dishes so that something must be done with any Dish that inherits from it
